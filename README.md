@@ -3,7 +3,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://github.com/zhouzhoushen">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello, world!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=console.log(%22Hello%2C%20world!%22);Hello, world!&center=true&size=27" />
     </a>
   </div>
 
@@ -33,24 +33,24 @@
   </div>
 
 ### 👀 About Me
-- 🧑‍💼 I am currently an undergraduate of Southeast University majoring computer science.
+- 🧑‍💼 I am currently an undergraduate of Southeast University majoring CS.
 - 💞️ I’m interested in reading, exercising, thinking and implementing.
 - 🌱 I’m currently learning some knowledge in the system field.
-- 📫 You can contact me through [email](zhouzhoushen@seu.edu.cn)!
+- 📫 You can contact me through [email](mailto:zhouzhoushen@seu.edu.cn)!
 
-I publish open source software here. All the repositories are at your disposal.
+I publish open source resources here. All the repositories are at your disposal.
 
 ### Badges
 
 <!--- [![](https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white)](https://anoyi.com/) --->
 [![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/zhouzhoushen/)
 [![](https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/)
-[![](https://img.shields.io/badge/email-zhouzhoushen@seu.edu.cn-black?style=flat-square&logo=#005FF9&logoColor=white.svg)](zhouzhoushen@seu.edu.cn)
+[![](https://img.shields.io/badge/email-zhouzhoushen@seu.edu.cn-black?style=flat-square&logo=#005FF9&logoColor=white.svg)](mailto:zhouzhoushen@seu.edu.cn)
 <!--- 带链接的徽标格式：[![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl}) --->
 
 ### Devices
 
-[![](https://img.shields.io/badge/-Thinkbook%2021%20Pro-black?style=flat-square&logo=lenovo)](https://www.lenovo.com/)
+[![](https://img.shields.io/badge/-Thinkbook%2016p-black?style=flat-square&logo=lenovo)](https://www.lenovo.com/)
 [![](https://img.shields.io/badge/-Xiaomi%2010s-black?style=flat-square&logo=xiaomi)](https://www.mi.com/mi10s)
 [![](https://img.shields.io/badge/Desktop%20Computer-black?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
 [![](https://img.shields.io/badge/DJI%20MINI%202-black?style=flat-square&logoColor=white)](https://www.dji.com/cn/mini-2?site=brandsite&from=nav)
