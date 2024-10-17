@@ -1,7 +1,6 @@
 ### About Me
 
 - I am an undergraduate majoring in computer science and technology.
-- I’m interested in eating and sleeping!
 - Feel free to contact me through [e-mail](mailto:zhouzhoushen@seu.edu.cn)!
 
 ### Devices
