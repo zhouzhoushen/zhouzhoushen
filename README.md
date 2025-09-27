@@ -1,9 +1,9 @@
-### About Me
+# About Me
 
-- I am an undergraduate majoring in computer science and technology.
-- Feel free to contact me through [e-mail](mailto:zhouzhoushen@seu.edu.cn)!
+- I'm a graduate majoring in computer technology.
+- Feel free to contact me through [e-mail](mailto:zhouzhou_shen@qq.com)!
 
-### Devices
+# Devices
 
 [![](https://img.shields.io/badge/-Thinkbook%2016p-black?style=flat-square&logo=lenovo)](https://www.lenovo.com/)
 [![](https://img.shields.io/badge/-Xiaomi%2010s-black?style=flat-square&logo=xiaomi)](https://www.mi.com/mi10s)
