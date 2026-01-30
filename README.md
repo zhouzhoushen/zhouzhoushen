@@ -1,7 +1,4 @@
-# About Me
-
-- I'm a graduate majoring in computer technology.
-- Feel free to contact me through [e-mail](mailto:zhouzhou_shen@qq.com)!
+I enjoy doing things well.
 
 <!---
 zhouzhoushen/zhouzhoushen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
