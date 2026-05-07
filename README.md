@@ -1,4 +1,4 @@
-I enjoy doing things well.
+I enjoy things.
 
 <!---
 zhouzhoushen/zhouzhoushen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
